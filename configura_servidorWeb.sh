@@ -1,6 +1,6 @@
 #!/bin/bash
 
-## Dar um Update e upgrade
+# Dar um Update e upgrade
 
 apt update && sudo apt upgrade
 
